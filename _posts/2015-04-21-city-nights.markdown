@@ -4,7 +4,7 @@ subtitle: "A Beautiful shot during the flight."
 author: "Akd"
 avatar: "img/authors/photo.jpg"
 image: "img/tuckedin.jpg"
-date:   2019-06-25 12:00:00
+date:   2019-06-15 12:00:00
 ---
 
 ### Dolor sit amet?
