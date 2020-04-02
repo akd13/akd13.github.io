@@ -1,4 +1,4 @@
-# Jekyll Modern Blog
+# Jekyll Akd's Europe Adventures
 
 A Simple, Clean and responsive modern blog for jekyll.
 

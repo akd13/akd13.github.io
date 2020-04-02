@@ -1,10 +1,10 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+title:  "Tucked in puppers"
+subtitle: "A Beautiful shot during the flight."
+author: "Akd"
+avatar: "img/authors/photo.jpg"
+image: "img/tuckedin.jpg"
+date:   2019-06-25 12:00:00
 ---
 
 ### Dolor sit amet?
